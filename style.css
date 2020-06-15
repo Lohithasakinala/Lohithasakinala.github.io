@@ -230,7 +230,7 @@ ul li.active a {
 
 .right_content {
 	float: right;
-	
+	padding-right:5%;
 	color: white;
 	font-size: 18px;
 
